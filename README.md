@@ -1,7 +1,7 @@
 # Artefatos-OPE-Lirio-Casablanca
 Esse repositório contém todos os Artefatos solicitados pelas disciplinas de Engenharia de Software e Engenharia de  Requisitos.
 
-# Abaixo estão listados os integrantes do projeto
+Abaixo estão listados os integrantes do projeto
 
 # Anderson Teixeira Paula | 1800834
 # Áureo Fujisawa | 1701913
